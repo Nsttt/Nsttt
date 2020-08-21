@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **pretty much anything and I'll see if I can help :)**
 
-- 📫 How to reach me **nestor@nstlopez.com** or any of my social media listed below.
+- 📫 You can contact me through **nestor@nstlopez.com** or any of my social media listed below.
 <p align="center">
 <a href="https://twitter.com/nesteahd4k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nesteahd4k" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/nestorlopezlopez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nestorlopezlopez" height="20" width="20" /></a>
