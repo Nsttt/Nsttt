@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Néstor</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-![Imagen](https://i.imgur.com/tNILFxx.jpg)
+![Imagen](https://i.imgur.com/d6mea2R.jpg)
 - 👨‍💻 All of my projects are available at [http://nstlopez.com](http://nstlopez.com)
 
 - 💬 Ask me about **pretty much anything and I'll see if I can help :)**
