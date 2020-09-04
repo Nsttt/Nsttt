@@ -1,0 +1,13 @@
+{
+  "name": "Nsttt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nsttt/Nsttt.git",
+  "author": "Nestor <elnestinatorHD@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mustache": "^4.0.1",
+    "puppeteer": "^5.2.1"
+  }
+}
