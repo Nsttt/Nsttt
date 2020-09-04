@@ -4,6 +4,10 @@ const puppeteerService = require('./services/puppeteer.service');;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
+let DATA = {
+
+}
+
 async function setInstagramPosts() {
     const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('nstlopez', 3);
     DATA.img1 = instagramImages[0];
