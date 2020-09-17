@@ -28,7 +28,7 @@ class PuppeteerService {
     });
 
     await this.page.goto(url, {
-      waitUntil: `networkidle0`,
+      waitUntil: `domcontentloaded`,
     });
   }
 
