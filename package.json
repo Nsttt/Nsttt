@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "mustache": "^4.0.1",
-    "puppeteer": "^5.2.1"
+    "mustache": "^4.1.0",
+    "puppeteer": "^5.5.0"
   }
 }

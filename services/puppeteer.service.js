@@ -23,12 +23,13 @@ class PuppeteerService {
       await this.init();
     }
     this.page = await this.browser.newPage();
+
     await this.page.setExtraHTTPHeaders({
       "Accept-Language": "en-US",
     });
 
     await this.page.goto(url, {
-      waitUntil: `domcontentloaded`,
+      waitUntil: `networkidle0`,
     });
   }
 
@@ -40,7 +41,6 @@ class PuppeteerService {
   async getLatestInstagramPostsFromAccount(acc, n) {
     const page = `https://www.picuki.com/profile/${acc}`;
     await this.goToPage(page);
-
     let previousHeight;
 
     try {
@@ -48,9 +48,10 @@ class PuppeteerService {
       await this.page.evaluate(
         `window.scrollTo(0, document.body.scrollHeight)`
       );
-      await this.page.waitForFunction(
-        `document.body.scrollHeight > ${previousHeight}`
-      );
+      // await this.page.waitForFunction(
+      //   `document.body.scrollHeight > ${previousHeight}`,
+      //   { timeout: 0 }
+      // );
       await this.page.waitForTimeout(1000);
 
       const nodes = await this.page.evaluate(() => {
