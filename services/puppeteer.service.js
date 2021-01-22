@@ -30,6 +30,7 @@ class PuppeteerService {
 
     await this.page.goto(url, {
       waitUntil: `networkidle0`,
+      timeout: 0
     });
   }
 
@@ -40,7 +41,10 @@ class PuppeteerService {
 
   async getLatestInstagramPostsFromAccount(acc, n) {
     const page = `https://www.picuki.com/profile/${acc}`;
-    await this.goToPage(page);
+    await this.goToPage(page, {
+      waitUntil: "load",
+      timeout: 0,
+    });
     let previousHeight;
 
     try {
