@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 12 * * *'
+    - cron: "0 12 * * *"
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       - name: Setup NodeJs 13.x
         uses: actions/setup-node@v1
         with:
-          node-version: '13.x'
+          node-version: "13.x"
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
@@ -27,6 +27,8 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
+        env:
+          HOST: ${{secrets.HOST}}
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
