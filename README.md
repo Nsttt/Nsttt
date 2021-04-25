@@ -48,7 +48,7 @@
 <li><a href="https://nstlopez.com/project/nstsh" target="_blank">nst.sh: A personal yet functional URL Shortener</a></li>
 </ul>
 <h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
-</h3><p><img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;175376773_459619141960292_4722228866659573335_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;EjJswsB4eYoAX-uHODC&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;80fe20eb98991e22aaf4a73af9eac4f7&amp;oe&#x3D;60A65710&amp;_nc_sid&#x3D;7bff83" /> <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;173900630_279119400358544_4144923664801819772_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;MpOl08qCLc8AX9L14-0&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;7ac218d2e1904a934f06817e1adb6022&amp;oe&#x3D;60A9379A&amp;_nc_sid&#x3D;7bff83" /> <img width="200" src="https:&#x2F;&#x2F;instagram.fiev22-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;172098008_123970346419386_577575357047029695_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.fiev22-1.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;AR77Bvif1RUAX9Zzkrk&amp;edm&#x3D;ABfd0MgAAAAA&amp;ccb&#x3D;7-4&amp;oh&#x3D;11993436479f3fae620cc5dfd6e6cb36&amp;oe&#x3D;60A798CB&amp;_nc_sid&#x3D;7bff83" /></p>
+</h3><p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 
 <div>
 <a href="https://nstlopez.com/" target="_blank"><img alt="My Portfolio" src="./static/portfolio_button.svg" /></a>
@@ -61,4 +61,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Saturday, 24 April, 14:03 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Sunday, 25 April, 14:03 CEST</p>
