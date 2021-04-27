@@ -48,7 +48,7 @@
 <li><a href="https://nstlopez.com/project/nstsh" target="_blank">nst.sh: A personal yet functional URL Shortener</a></li>
 </ul>
 <h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
-</h3><p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+</h3><p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;app&#x2F;controllers&#x2F;proxy_image.php?url&#x3D;https%3A%2F%2Fscontent-lga3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fs640x640%2F177326474_450408066035219_8103500323660516832_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-lga3-1.cdninstagram.com%26_nc_cat%3D111%26_nc_ohc%3DdZILlwpgSEMAX-6dRMQ%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D188a3b2246e66e1648406ba129883499%26oe%3D60AC9E6C%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;app&#x2F;controllers&#x2F;proxy_image.php?url&#x3D;https%3A%2F%2Fscontent-lga3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fs640x640%2F177246262_1173344426428262_8098743025571941564_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-lga3-1.cdninstagram.com%26_nc_cat%3D102%26_nc_ohc%3Dhxi00vc5eJ0AX9VHH6f%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D0b3248b3322eb3de41987018f76ac08a%26oe%3D60AEE3A4%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;app&#x2F;controllers&#x2F;proxy_image.php?url&#x3D;https%3A%2F%2Fscontent-lga3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fs640x640%2F176173931_500107191019754_7406671427613517394_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-lga3-1.cdninstagram.com%26_nc_cat%3D102%26_nc_ohc%3Dc-otXWJCjd0AX_hR_jZ%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D014ef2ca0dcd153da4d3c2745172827e%26oe%3D60AEDC63%26_nc_sid%3D7bff83" /></p>
 
 <div>
 <a href="https://nstlopez.com/" target="_blank"><img alt="My Portfolio" src="./static/portfolio_button.svg" /></a>
@@ -61,4 +61,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 26 April, 14:04 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 27 April, 14:04 CEST</p>
