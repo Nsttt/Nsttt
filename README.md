@@ -11,7 +11,6 @@
 <img alt="Svelte" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Svelte_c7b3aa54da.svg" />
 <img alt="Yarn" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Yarn_e923146480.svg" />
 <img alt="Strapi" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;strapi_5534e8e5e3.svg" />
-<img alt="macOS" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;mac_OS_a5a8c693c2.svg" />
 <img alt="Cypress" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Cypress_fe504b2241.svg" />
 <img alt="Prettier" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Prettier_bc0762ec9c.svg" />
 <img alt="TestingLibrary" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Testing_Library_2089de908e.svg" />
@@ -31,7 +30,6 @@
 <img alt="Sass" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Sass_eb8af33f43.svg" />
 <img alt="VueJS" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Vue_291e30d43b.svg" />
 <img alt="Typescript" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Typescript_ad00b590f7.svg" />
-<img alt="Insomnia" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Insomnia_42cfb99178.svg" />
 <img alt="C#" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;C_f43471e953.svg" />
 <img alt="ChakraUI" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;chakraui_67e32018bf.svg" />
 <img alt="GraphQL" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Graph_QL_bc02c7d9db.svg" />
@@ -48,7 +46,7 @@
 <li><a href="https://nstlopez.com/project/githunter" target="_blank">GitHunter: Starred project hunter for GitHub</a></li>
 </ul>
 <h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
-</h3><p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C200467429_955983731609754_5893714725445912614_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3Dx6g4g_cWu-4AX-MxfDN%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D45c2dc16caa52bb15d7d84dad01689bb%26oe%3D60D9CF90%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C197617652_393772371896955_2111871242097688812_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DjkKoVcM57lIAX-f3kdr%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D9365408f2b94b9777a4fcff8f363c1a4%26oe%3D60D96C8A%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196774410_4208501572547500_1752371993077886934_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3DFUXW33b5sHcAX9Z8kV7%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3De65b4212c194391d32c4afd872a411ed%26oe%3D60DA3E10%26_nc_sid%3D7bff83" /></p>
+</h3><p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C208020080_317189943222792_536642226430222594_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3DKmAbS5kY45YAX_tfRSc%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da6faa1c02dfb4367a35a76484d0cda43%26oe%3D60DD227C%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C200467429_955983731609754_5893714725445912614_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3Dx6g4g_cWu-4AX-nOvfD%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Df0992e23e16506044e82304faf4092d0%26oe%3D60DBC9D0%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C197617652_393772371896955_2111871242097688812_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DCLEezG88-gQAX8e840C%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D942e3d42974f03e7119fd5015daac282%26oe%3D60DD610A%26_nc_sid%3D7bff83" /></p>
 
 <div>
 <a href="https://nstlopez.com/" target="_blank"><img alt="My Portfolio" src="./static/portfolio_button.svg" /></a>
@@ -61,4 +59,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, 24 June, 14:09 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Friday, 25 June, 14:14 CEST</p>
