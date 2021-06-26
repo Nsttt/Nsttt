@@ -46,7 +46,7 @@
 <li><a href="https://nstlopez.com/project/githunter" target="_blank">GitHunter: Starred project hunter for GitHub</a></li>
 </ul>
 <h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
-</h3><p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C208020080_317189943222792_536642226430222594_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3DKmAbS5kY45YAX_tfRSc%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da6faa1c02dfb4367a35a76484d0cda43%26oe%3D60DD227C%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C200467429_955983731609754_5893714725445912614_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3Dx6g4g_cWu-4AX-nOvfD%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Df0992e23e16506044e82304faf4092d0%26oe%3D60DBC9D0%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C197617652_393772371896955_2111871242097688812_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DCLEezG88-gQAX8e840C%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D942e3d42974f03e7119fd5015daac282%26oe%3D60DD610A%26_nc_sid%3D7bff83" /></p>
+</h3><p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 
 <div>
 <a href="https://nstlopez.com/" target="_blank"><img alt="My Portfolio" src="./static/portfolio_button.svg" /></a>
@@ -59,4 +59,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Friday, 25 June, 14:14 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Saturday, 26 June, 14:13 CEST</p>
