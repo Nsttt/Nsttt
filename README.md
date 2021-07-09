@@ -41,9 +41,9 @@
 
 <h3>My latest projects explained in detail</h3>
 <ul>
+<li><a href="https://nstlopez.com/project/vue-covid" target="_blank">Vue Covid: A covid tracking app built using Vue 3</a></li>
 <li><a href="https://nstlopez.com/project/instagram-clone" target="_blank">Instagram Clone: A simple Instagram clone.</a></li>
 <li><a href="https://nstlopez.com/project/streaming-service" target="_blank">Streaming service: A very simple streaming service clone</a></li>
-<li><a href="https://nstlopez.com/project/githunter" target="_blank">GitHunter: Starred project hunter for GitHub</a></li>
 </ul>
 <h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
 </h3><p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C208772598_222391603046830_3952840693291909310_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DF1M4tDU6em4AX9Jsqma%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D946f8d2596e6a40ab05b8f56bf1e61bf%26oe%3D60ED5101%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C208020080_317189943222792_536642226430222594_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3D8wcDvs3Ibt8AX8_FN9D%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D0e1f1f99d413a3b8b45ff3ac93884985%26oe%3D60ECF47C%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C200467429_955983731609754_5893714725445912614_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3Dx0MRLXDLNqIAX82hQAg%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dbbe9ed01979338b1a8b3c3546309bdb2%26oe%3D60ED9610%26_nc_sid%3D7bff83" /></p>
@@ -59,4 +59,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, 8 July, 14:15 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Friday, 9 July, 14:14 CEST</p>
