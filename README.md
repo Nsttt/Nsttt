@@ -46,7 +46,7 @@
 <li><a href="https://nstlopez.com/project/netflix-clone" target="_blank">Netflix Clone: A simple Netflix clone</a></li>
 </ul>
 <h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
-</h3><p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cscontent-lga3-1.cdninstagram.com%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C248245767_4405224279513447_4511165519890330081_n.jpg%3F_nc_ht%3Dscontent-lga3-1.cdninstagram.com%26_nc_cat%3D103%26_nc_ohc%3DXJUHVql3vy8AX-3uAsH%26tn%3D8_tZD-rh30Byz6SX%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D0a0dd0e3e8a6881903d54602a1ee4dc0%26oe%3D6190EBA6%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cscontent-lga3-1.cdninstagram.com%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C244576807_605757470837357_7019136226283453722_n.jpg%3F_nc_ht%3Dscontent-lga3-1.cdninstagram.com%26_nc_cat%3D105%26_nc_ohc%3DXYbRlxCLXwsAX_bCeim%26tn%3D8_tZD-rh30Byz6SX%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D212a99ba806c936099cfe5f5d7d8558d%26oe%3D6190D4B5%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cscontent-lga3-1.cdninstagram.com%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C244525647_984847405407724_1303225067942038837_n.jpg%3F_nc_ht%3Dscontent-lga3-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3DCQIUWRdpk24AX-R_5mT%26tn%3D8_tZD-rh30Byz6SX%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3De2a9d2c5868a94347c4f2f16557af544%26oe%3D618FA6E1%26_nc_sid%3D7bff83" /></p>
+</h3><p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 
 <div>
 <a href="https://nstlopez.com/" target="_blank"><img alt="My Portfolio" src="./static/portfolio_button.svg" /></a>
@@ -59,4 +59,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 8 November, 13:16 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 9 November, 13:16 CET</p>
