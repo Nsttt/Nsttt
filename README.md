@@ -46,7 +46,7 @@
 <li><a href="https://nstlopez.com/project/netflix-clone" target="_blank">Netflix Clone: A simple Netflix clone</a></li>
 </ul>
 <h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
-</h3><p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+</h3><p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C248245767_4405224279513447_4511165519890330081_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3D49iCXZ_XSngAX8wPK_0%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D38fca34e5f00958ffa53d253175c2210%26oe%3D6194E026%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C244576807_605757470837357_7019136226283453722_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D105%26_nc_ohc%3D4hrJA8pyHrwAX_6q4gJ%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da86b0dd7dee6d2e878696dc0344d72ed%26oe%3D6194C935%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C244525647_984847405407724_1303225067942038837_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3D7Cz-ecwFEyUAX-hjqCK%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D8e145172e11457691df1ed6a6a33fca9%26oe%3D61939B61%26_nc_sid%3D7bff83" /></p>
 
 <div>
 <a href="https://nstlopez.com/" target="_blank"><img alt="My Portfolio" src="./static/portfolio_button.svg" /></a>
@@ -59,4 +59,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Wednesday, 10 November, 13:16 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, 11 November, 13:16 CET</p>
