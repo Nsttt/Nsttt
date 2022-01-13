@@ -59,4 +59,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Wednesday, 12 January, 13:18 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, 13 January, 13:18 CET</p>
