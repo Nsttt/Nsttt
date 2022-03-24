@@ -50,6 +50,7 @@
 
 <div>
 <a href="https://nstlopez.com/" target="_blank"><img alt="My Portfolio" src="./static/portfolio_button.svg" /></a>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nesteahd&count=1)
 
 <h3>My social media</h3>
@@ -59,4 +60,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, 24 March, 20:31 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, 24 March, 20:34 CET</p>
