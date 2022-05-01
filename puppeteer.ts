@@ -1,7 +1,8 @@
-const puppeteer = require("puppeteer");
+import * as puppeteer from "puppeteer";
+
 class PuppeteerService {
-  browser;
-  page;
+  browser!: puppeteer.Browser;
+  page!: puppeteer.Page;
 
   async init() {
     this.browser = await puppeteer.launch({
@@ -13,12 +14,11 @@ class PuppeteerService {
         "--ignore-certifcate-errors",
         "--ignore-certifcate-errors-spki-list",
         "--incognito",
-        "--proxy-server=http=194.67.37.90:3128",
       ],
     });
   }
 
-  async goToPage(url) {
+  async goToPage(url: string) {
     if (!this.browser) {
       await this.init();
     }
@@ -30,7 +30,7 @@ class PuppeteerService {
 
     await this.page.goto(url, {
       waitUntil: `networkidle0`,
-      timeout: 0
+      timeout: 0,
     });
   }
 
@@ -39,16 +39,14 @@ class PuppeteerService {
     await this.browser.close();
   }
 
-  async getLatestInstagramPostsFromAccount(acc, n) {
+  async getLatestInstagramPostsFromAccount(acc: string) {
     const page = `https://www.picuki.com/profile/${acc}`;
-    await this.goToPage(page, {
-      waitUntil: "load",
-      timeout: 0,
-    });
-    let previousHeight;
+    await this.goToPage(page);
 
     try {
-      previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
+      let previousHeight = await this.page.evaluate(
+        `document.body.scrollHeight`
+      );
       await this.page.evaluate(
         `window.scrollTo(0, document.body.scrollHeight)`
       );
@@ -60,17 +58,15 @@ class PuppeteerService {
 
       const nodes = await this.page.evaluate(() => {
         const images = document.querySelectorAll(`.post-image`);
-        return [].map.call(images, (img) => img.src);
+        return [].map.call(images, (img: any) => img.src);
       });
 
       return nodes.slice(0, 3);
     } catch (error) {
-      console.log("Error", error);
+      console.log("Error loading images: ", error);
       process.exit();
     }
   }
 }
 
-const puppeteerService = new PuppeteerService();
-
-module.exports = puppeteerService;
+export const InstagramScraper = new PuppeteerService();

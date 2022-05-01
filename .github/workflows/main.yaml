@@ -14,15 +14,15 @@ jobs:
     steps:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
+      - name: Setup NodeJs 16.x
         uses: actions/setup-node@v1
         with:
-          node-version: "13.x"
+          node-version: "16.x"
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
           path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          key: ${{ runner.os }}-js-${{ hashFiles('pnpm-lock.yaml') }}
       - name: Install dependencies
         run: npm install
       - name: Generate README file
