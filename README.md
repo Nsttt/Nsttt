@@ -39,17 +39,8 @@
 <img alt="StyledComponents" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Styled_Components_2564fdf81b.svg" />
 </p>
 
-<h3>My latest projects explained in detail</h3>
-<ul>
-<li><a href="https://nstlopez.com/project/vue-covid" target="_blank">Vue Covid: A covid tracking app built using Vue 3</a></li>
-<li><a href="https://nstlopez.com/project/instagram-clone" target="_blank">Instagram Clone: A simple Instagram clone.</a></li>
-<li><a href="https://nstlopez.com/project/netflix-clone" target="_blank">Netflix Clone: A simple Netflix clone</a></li>
-</ul>
 <h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
-</h3><p><img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8JzOFzWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7IgtVVhSCT15P0feSbaMRDZc76qdVOiivDBg8ZZnkLs1KXMabX+r%7C%7CsskVGCpNWwPG%7C%7CsAULjh7uZDu7%7C%7CzNnZSyWaRMdsBnmICqZXwCJ1mwsFusvrBv0Xm1IwleS5J%7C%7CWU1IUc879LIvmhHDbrzNsB9q7JjR7Aei8pL6ODj3Rq2ElIpenojRmDJ%7C%7CLTPnNEMjSC1YWU8o3mDXpEcORQ%7C%7CuQyUuU4ansorjIj%7C%7CFa9r3a4VtoL2bUcmGW9opUk53cD7mCuQODCW%7C%7CncK2Vbl2rKdYPQctazHEvWkV9r%7C%7CmC%7C%7C0S5PvR5NtcXkXKO3kWX3LBaC%7C%7CD8YUgc1AGaUYhQuT0lToJvbL0hBOFzxO3mOJCpQoEA&#x3D;&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8JzOFzWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7IspVlhSCj14PkHbSrGKSz9R6ayfVuylvDRv9Jdjl7k8JXEdZnar8cYqUmepNWwPG%7C%7CsAULjh7uZDu7%7C%7CzNnZSyWaRMdsBnmICqZXwCJ1mwsFusvrBv0Xm1IwleS5J%7C%7CWU1IUc879LIvmhHDbrzNsB9q7JjR7Aei8pL6ODj3Rq2ElIpenojRmDO%7C%7CLTPnNEMjSC1QyQR9lehEqUKGkc%7C%7CuQ2xkQ4rmcorjIj%7C%7CFa9r3a4VtoL2bUcmGW9opUk53cD7mCuQODCW%7C%7CndtwW3V%7C%7CZaHYugNgrfcBt6SbdfnwxnGUbTmMONJEG8bMMuHAGrmE6OGPoVsp81AGaUYhQuQoifvI%7C%7CbL0hBOFzxO3mOJCpQoEA&#x3D;&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8JzOFzWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n44IrV1hVCD1+O0DYQLOMTTZQ7aybUu6mvDZh95Njkb4xLnIcbX6r8cYsVmapNWwPG%7C%7CsAULjh7uZDu7%7C%7CzNnZSyWaRMdsBnmICqZXwCJ1mwsFusvrBv0Xm1IwleS5J%7C%7CWU1IUc879LIvmhHDbrzNsB9q7JjR7Aei8pL6ODj3Rq2ElIpenojRmDJ%7C%7CLTPnNEMjSC1ewYO1FCCFrw3Kks%7C%7CuQy0lTootsorjIj%7C%7CFa9r3a4VtoL2bUcmGW9opUk53cD7mCuQODCW%7C%7CncfzlSE7IGLdfoerbfVLqHEevrZ1Q7NOpPIPu9WBDckF9L6Q1nRDMy1I5tagc1AGaUYhQuQ1iDsI%7C%7CbL0hBOFzxO3mOJCpQoEA&#x3D;&#x3D;" /></p>
-
-<div>
-<a href="https://nstlopez.com/" target="_blank"><img alt="My Portfolio" src="./static/portfolio_button.svg" /></a>
+</h3><p><img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7I8jVVpZCD17NETWQbWOSDdV66uZVeqivDFh95BjnLY8L3cYZH6v8cYuXWGpNWwPG%7C%7CsAULjh7uZDu7%7C%7CzNnZSyWaRMdsBnmICqZXwCJ1mwsFusvrBv0Xm1IwleS5J%7C%7CWU1IUc878TDsGtHDbrzNsB9q7JjR7Aei8pL6ODj3Rq2ElIpenojRmDN%7C%7CLTPnNEMjSC1fgIL3m+pRb12Omk%7C%7CuWqtkERjpMorjIj%7C%7CFa9r3a4VtoL2bUcmGW9opUk53cD7mCuQODCW%7C%7Cndt6EXBzKaZZ8FwkKHBLP64W8i4gRj4V4PvNoNZSFlfL9vSQ1T%7C%7CH9adJOwBt81AGaUYhQngpyScJvbL0hBOFzxO3mOJCpQoEA&#x3D;&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7IgtVVhSCT15P0feSbaMRDZc76qdVOiivDBg8ZZnkLs1KXMabX+r%7C%7CsskVGCpNWwPG%7C%7CsAULjh7uZDu7%7C%7CzNnZSyWaRMdsBnmICqZXwCJ1mwsFusvrBv0Xm1IwleS5J%7C%7CWU1IUc878TDsGtHDbrzNsB9q7JjR7Aei8pL6ODj3Rq2ElIpenojRmDJ%7C%7CLTPnNEMjSC1YgUV+GSec5A9G0M%7C%7CuWq2oD82lcorjIj%7C%7CFa9r3a4VtoL2bUcmGW9opUk53cD7mCuQODCW%7C%7CncL+mns8LGjR9s+pbPENMOcDO%7C%7CamxjzaJjhR5BIC1VdUdeOXAyLM9+OKO8Ot81AGaUYhQngp1XsJvbL0hBOFzxO3mOJCpQoEA&#x3D;&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7IspVlhSCj14PkHbSrGKSz9R6ayfVuylvDRv9Jdjl7k8JXEdZnar8cYqUmepNWwPG%7C%7CsAULjh7uZDu7%7C%7CzNnZSyWaRMdsBnmICqZXwCJ1mwsFusvrBv0Xm1IwleS5J%7C%7CWU1IUc878TDsGtHDbrzNsB9q7JjR7Aei8pL6ODj3Rq2ElIpenojRmDO%7C%7CLTPnNEMjSC1ZAw290KBRasoJEM%7C%7CuRijuBMXi8orjIj%7C%7CFa9r3a4VtoL2bUcmGW9opUk53cD7mCuQODCW%7C%7CncKylPfzJqdcfY0h733c9e5QPa4wQf6VL30P44ZeS8%7C%7CKsvSdWbSLeaDP80Pgc1AGaUYhQng1VPvI%7C%7CbL0hBOFzxO3mOJCpQoEA&#x3D;&#x3D;" /></p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nesteahd&count=1)
 
@@ -60,4 +51,4 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Friday, 15 April, 14:19 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Sunday, 1 May, 20:33 CEST</p>
