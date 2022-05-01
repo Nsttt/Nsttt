@@ -1,11 +1,10 @@
 const Mustache = require("mustache");
 const fs = require("fs");
 const puppeteerService = require("./services/puppeteer.service");
-const { getLabels, getProjects } = require("./services/strapi.service");
+
 require("dotenv").config({ path: __dirname + "/.env" });
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const backend = `${process.env.HOST}/graphql`;
 
 let DATA = {
   refresh_date: new Date().toLocaleDateString("en-GB", {
@@ -20,23 +19,11 @@ let DATA = {
 };
 
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(
-    "nstlopez",
-    3
-  );
+  const instagramImages =
+    await puppeteerService.getLatestInstagramPostsFromAccount("nstlopez", 3);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
   DATA.img3 = instagramImages[2];
-}
-
-async function setLabels() {
-  const labels = await getLabels(backend);
-  DATA.labels = labels;
-}
-
-async function setProjects() {
-  const projects = await getProjects(backend);
-  DATA.projects = projects;
 }
 
 function generateReadMe() {
@@ -52,16 +39,6 @@ async function action() {
    * Get pictures
    */
   await setInstagramPosts();
-
-  /**
-   * Get labels
-   */
-  await setLabels();
-
-  /**
-   * Get projects
-   */
-  await setProjects();
 
   /**
    * Generate README
