@@ -2,7 +2,7 @@
   "name": "nsttt",
   "version": "2.0.0",
   "repository": "https://github.com/Nsttt/Nsttt.git",
-  "author": "Nestor <elnestinatorHD@gmail.com>",
+  "author": "Nestor <nestor@nstlopez.com>",
   "license": "MIT",
   "private": true,
   "type": "module",
@@ -10,11 +10,12 @@
     "build": "tsc --noEmit index.ts"
   },
   "devDependencies": {
+    "@types/mustache": "^4.1.2",
     "@types/node": "^17.0.30",
     "@types/puppeteer": "^5.4.6",
     "axios": "^0.27.2",
     "dotenv": "^16.0.0",
-    "handlebars": "^4.7.7",
+    "mustache": "^4.2.0",
     "puppeteer": "^13.7.0",
     "typescript": "^4.6.4"
   }
