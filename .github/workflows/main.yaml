@@ -11,25 +11,50 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
-      - name: Setup NodeJs 16.x
-        uses: actions/setup-node@v1
+   steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+     - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: "16.x"
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
+          node-version: 16
+
+      - uses: pnpm/action-setup@v2.2.2
+        name: Install pnpm
+        id: pnpm-install
         with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('pnpm-lock.yaml') }}
+          version: 7
+          run_install: false
+
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        run: |
+          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
+
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
+        with:
+          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
       - name: Install dependencies
-        run: npm install
+        run: pnpm install
+
       - name: Generate README file
-        run: node index.js
-        env:
-          HOST: ${{secrets.HOST}}
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pnpm build
+
+      # - name: Commit and Push new README.md to the repository
+      #   uses: mikeal/publish-to-github-action@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: EndBug/add-and-commit@v9 
+        with:
+          add: '.'
+          author_name: Nsttt
+          author_email: nestor@nstlopez.com
+          commit: --signoff
+          message: 'Readme Build'
+          pathspec_error_handling: ignore
