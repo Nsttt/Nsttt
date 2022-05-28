@@ -5,7 +5,7 @@ import playwright from "playwright";
 const template = fs.readFileSync("src/main.mustache", "utf-8");
 
 async function getImages() {
-  const browser = await playwright.firefox.launch({ headless: true });
+  const browser = await playwright.chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page = await context.newPage();
 
