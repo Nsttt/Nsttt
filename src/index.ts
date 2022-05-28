@@ -44,7 +44,7 @@ async function main() {
     }),
   };
   const source = mustache.render(template, dataToRender);
-  fs.writeFileSync("README2.md", source, "utf-8");
+  fs.writeFileSync("README.md", source, "utf-8");
 }
 
 main();
