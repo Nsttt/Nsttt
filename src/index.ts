@@ -9,7 +9,9 @@ async function getImages() {
   const context = await browser.newContext();
   const page = await context.newPage();
 
-  await page.goto("https://www.picuki.com/profile/nstlopez/");
+  await page.goto("https://www.picuki.com/profile/nstlopez/", {
+    timeout: 80000,
+  });
   await page.waitForLoadState("load");
   await page.waitForSelector("img", {
     state: "attached",
