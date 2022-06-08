@@ -9,10 +9,13 @@ async function getImages() {
   const context = await browser.newContext();
   const page = await context.newPage();
 
+  console.log("Loading page...");
   await page.goto("https://www.picuki.com/profile/nstlopez/", {
     timeout: 80000,
   });
   await page.waitForLoadState("load");
+  console.log("Loaded page!");
+  console.log("Wait for images...");
   await page.waitForSelector("img", {
     state: "attached",
   });
@@ -24,6 +27,9 @@ async function getImages() {
 
     return urls.slice(0, 3);
   });
+  console.log("Got images!");
+
+  console.log("Closing Browser");
   await browser.close();
 
   return data;
