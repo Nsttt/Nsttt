@@ -46,11 +46,28 @@ jobs:
       - name: Generate README file
         run: pnpm build
 
-      - uses: EndBug/add-and-commit@v9
-        with:
-          add: "."
-          author_name: Nsttt
-          author_email: nestor@nstlopez.com
-          commit: --signoff
-          message: "Readme Build"
-          pathspec_error_handling: ignore
+      # - uses: EndBug/add-and-commit@v9
+      #   with:
+      #     add: "."
+      #     author_name: Nsttt
+      #     author_email: nestor@nstlopez.com
+      #     commit: --signoff
+      #     message: "Readme Build"
+      #     pull: "--rebase publisher master"
+      #     tag_push: "publisher master"
+      - name: Setup Git
+        run: |
+          # Setting up credentials
+          git config http.sslVerify false
+          git config user.name "Automated Publisher"
+          git config user.email "actions@users.noreply.github.com"
+          git remote add publisher https://github.com/Nsttt/Nsttt.git
+      - name: Commit changes
+        run: |
+          # Add changes and commit
+          git checkout master
+          git add -A
+          git commit -m "Automated publish" || exit 0
+          git pull --rebase publisher master
+          git push publisher master
+
