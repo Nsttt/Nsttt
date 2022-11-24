@@ -5,7 +5,7 @@ import playwright from "playwright";
 const template = fs.readFileSync("src/main.mustache", "utf-8");
 
 async function getImages() {
-  const browser = await playwright.chromium.launch({ headless: true });
+  const browser = await playwright.firefox.launch({ headless: true });
   const context = await browser.newContext();
   const page = await context.newPage();
 
@@ -13,11 +13,11 @@ async function getImages() {
   await page.goto("https://www.picuki.com/profile/nstlopez/", {
     timeout: 80000,
   });
-  await page.waitForLoadState("load");
+  await page.waitForLoadState("networkidle");
   console.log("Loaded page!");
   console.log("Wait for images...");
-  await page.waitForSelector("img", {
-    state: "attached",
+  await page.waitForSelector(".post-image", {
+    state: "visible",
   });
 
   const data = await page.evaluate(() => {

@@ -8,7 +8,7 @@
   "type": "module",
   "scripts": {
     "build": "tsx src/index.ts",
-    "postinstall": "pnpm exec playwright install chromium"
+    "postinstall": "pnpm exec playwright install"
   },
   "devDependencies": {
     "@types/mustache": "^4.2.1",
