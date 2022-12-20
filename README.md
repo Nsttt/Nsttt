@@ -14,35 +14,32 @@
 </ul>
 <h2>🚀 Tech I'm passionate about</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=Rust&logoColor=orange" alt="Website Badge">
-<img src="https://img.shields.io/badge/-WASM-black?style=for-the-badge&logo=webassembly" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node.js" alt="Website Badge">
-<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="Website Badge">
-<img src="https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js" alt="Website Badge">
-<img src="https://img.shields.io/badge/-React Native-black?style=for-the-badge&logo=react" alt="Website Badge">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Website Badge">
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website Badge">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website Badge">
 <img src="https://img.shields.io/badge/-tRPC-black?style=for-the-badge&logo=tRPC" alt="Website Badge">
-<img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss" alt="Website Badge">
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" alt="Website Badge">
-<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Website Badge">
-<img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=orange" alt="Website Badge">
-<img src="https://img.shields.io/badge/-Terraform-black?style=for-the-badge&logo=terraform&logoColor=purple" alt="Website Badge">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Website Badge">
 </p>
 
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nsttt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="nsttt's GitHub stats" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsttt&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="nsttt's GitHub stats" height="200" />
+    <img src="https://github-readme-stats.nstlopez.com/api?username=nsttt&show_icons=true&hide=&count_private=true&theme=tokyonight&&hide_border=true&show_icons=true" alt="nsttt's GitHub stats" height="200" />
+    <img src="https://github-readme-stats.nstlopez.com/api/top-langs/?username=nsttt&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="nsttt's GitHub stats" height="200" />
 </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=nsttt&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
-
-<h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
-</h3><p><img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8F2uFwWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYzxh7IwtWFpUDD1||P0HYTLWNSTdR6ayfU+rN0DNl||Z9onb43KXIaYHaq9ccuOzjYLCcaDqYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt||9kiJzJE5m4vMAQrpsmL52tEX||D+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uRHagtIj+kOYA2AjhW2M3+UqzSqtjDnRGmFe4jhJ3t4gj1aSNBdxuiekakIH2bSAEXG428Fk71pu1ynOdV0Gv+0loyHnD56m||S||IgnLLmK9S||Bfr4+2zmSObuP6hqT1QfD83ednDfFsG0KPkfmY4SSqsX8nztoFf7S7734wB4AGgShTDaXpA&#x3D;.jpeg?1" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8F2uFwWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYzxh4Y4rUlVWAz18P0HfTLOMTjpV6ambXO7N1DNg9pRmkL48KXwZZX+q9sMsXAmYdTUdHOlPHL||lo79UvOa0LGFq8zCXW||dEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F||H8kKl1lodnO+3dbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2nZhYXCoOELhn65QBds9WKrUoUwCm0m2WKq5Tt89IkqhdiDG7w82q4vk4H2bUdBXG9p+kMjxdKyn36dOF+I2WBTz2Tk9uSgd||0IqofPAKaidNPr6i6XN+LyH65He31fNduDVFiIBeC7IMpo0IRKQa4djnjk1iefMo||63yxiDTEX2zKPXcBy.jpeg?1" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8F2vJzWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYzxh4YkpVFxRDz19PUTcTrWLTD9X6qqZUunN0TZk8JNnl78zKXQfYnCt8MUkVQmYdTUdHOlPHL||lo79UvOa0LGFq8zCXW||dEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F||H8kKl1lodnd+HdbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2LZhYXCoOELhn7ZWmw6+EbqbpEuOG0m2Q3v5D5i9IkqhdiDG7w82q4vk4H2bUdBXG9p+kMjxdKyn36dOF+I2WAGzXrZyIuOJ8gZjqL4CMGOZMjhmXiVQ73wOLl6SCowOtbYYgjkcKajAs140IRKQa4djnvipVeeMo||63yxiDTEX2zKPXcBy.jpeg?1" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=nsttt&theme=tokyonight&no-frame=true&column=-1" alt="GitHub trophies" width="835"/>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Wednesday, 14 December at 13:20 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 20 December at 15:54 CET</p>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=nsttt.nsttt" alt="visitors"></p>
