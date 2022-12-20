@@ -56,11 +56,11 @@ async function getImages() {
 }
 
 async function main() {
-  const images = await getImages();
+  // const images = await getImages();
   const dataToRender = {
-    img1: images[0],
-    img2: images[1],
-    img3: images[2],
+    // img1: images[0],
+    // img2: images[1],
+    // img3: images[2],
     refresh_date: new Date().toLocaleDateString("en-GB", {
       weekday: "long",
       month: "long",
@@ -76,3 +76,5 @@ async function main() {
 }
 
 main();
+//<h3>My last 3 pictures posted <a href="https://www.instagram.com/nstlopez/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @nstlopez</a><br/>
+// </h3><p><img width="200" src="{{img1}}" /> <img width="200" src="{{img2}}" /> <img width="200" src="{{img3}}" /></p>
