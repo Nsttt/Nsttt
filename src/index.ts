@@ -4,8 +4,28 @@ import playwright from "playwright";
 
 const template = fs.readFileSync("src/main.mustache", "utf-8");
 
+const getRandomBrowser = (random: number) => {
+  if (random === 0) {
+    console.log("Using Chromium");
+    return playwright.chromium.launch({ headless: true });
+  }
+  if (random === 1) {
+    console.log("Using Firefox");
+
+    return playwright.firefox.launch({ headless: true });
+  }
+  if (random === 2) {
+    console.log("Using Webkit");
+
+    return playwright.webkit.launch({ headless: true });
+  }
+  console.log("Using fallback");
+
+  return playwright.chromium.launch({ headless: true });
+};
+
 async function getImages() {
-  const browser = await playwright.firefox.launch({ headless: true });
+  const browser = await getRandomBrowser(Math.round(Math.random() * 2));
   const context = await browser.newContext();
   const page = await context.newPage();
 
