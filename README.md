@@ -9,7 +9,7 @@
 <li>🔭 I’m currently working on a startup idea. Check <a href="https://expanse.works">expanse.works</a> for more info.</li>
 <li>👨‍💻 All of my personal projects are available on Github and developed in public.</li>
 <li>📝 I try to write articles on my <a href="https://nstlopez.com">blog</a>.</li>
-<li>🤝 Open Source Contributor and Maintainer. Currently on <a href="https://www.github.com/t3-oss/create-t3-app">create-t3-app</a> and <a href="https://www.github.com/trpc/trpc">tRPC</a></li>
+<li>🤝 Open Source Maintainer. Currently on <a href="https://www.github.com/t3-oss/create-t3-app">create-t3-app</a> and <a href="https://www.github.com/trpc/trpc">tRPC</a></li>
 <li>🐱 I post a lot of pictures of my cat on <a href="https://instagram.com/nstlopez">Instagram</a>.</li>
 </ul>
 <h2>🚀 Tech I'm passionate about</h2>
@@ -31,15 +31,5 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Website Badge">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Website Badge">
 </p>
-
-<div style="display: flex;">
-    <img src="https://github-readme-stats.nstlopez.com/api?username=nsttt&show_icons=true&hide=&count_private=true&theme=tokyonight&&hide_border=true&show_icons=true" alt="nsttt's GitHub stats" height="200" />
-    <img src="https://github-readme-stats.nstlopez.com/api/top-langs/?username=nsttt&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="nsttt's GitHub stats" height="200" />
-</div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nsttt&theme=tokyonight&no-frame=true&column=-1" alt="GitHub trophies" width="835"/>
-
-------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 20 March at 13:20 CET</p>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=nsttt.nsttt" alt="visitors"></p>
