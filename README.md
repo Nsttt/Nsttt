@@ -12,7 +12,7 @@
 <li>🤝 Open Source Maintainer. Currently on <a href="https://www.github.com/t3-oss/create-t3-app">create-t3-app</a> and <a href="https://www.github.com/trpc/trpc">tRPC</a></li>
 <li>🐦 I'm often found bantering and sharing thoughts on <a href="https://twitter.com/nstlopez">Twitter</a>.</li>
 </ul>
-<h2>🚀 Tech I'm usually work with</h2>
+<h2>🚀 Tech I usually work with</h2>
 <p align="left">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
@@ -40,5 +40,3 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge">
     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge">
 </p>
-
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=nsttt.nsttt" alt="visitors"></p>
