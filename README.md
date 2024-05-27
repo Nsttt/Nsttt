@@ -1,5 +1,5 @@
 <h1>Hey, I'm <a href="https://nstlopez.com/">Néstor</a> <img src="./static/suica.gif" height="45" /></h1>
-<p>Passtionate about Open source. Currently Lead Architect at <strong><a href="https://www.nexiona.com/">NEXIONA</a></strong> in ☀️ Spain.</p>
+<p>Passtionate about Open source. Currently Software Engineer at <strong><a href="https://www.zenrows.com/">ZenRows</a></strong> in ☀️ Spain.</p>
 <p>Big fan of static types and functional programming, especially into Effect-ts. Love prototyping and system design.</p>
 <p>
 <a href="https://www.linkedin.com/in/nstlopez/"><img src="https://img.shields.io/badge/-@Nstlopez-0077B5?style=for-the-badge&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/nstlopez/" alt="LinkedIn Badge"></a>
