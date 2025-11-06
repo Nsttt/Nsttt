@@ -4,6 +4,10 @@
 
 <p>Focused on building resilient distributed systems. Exploring superpositioned infrastructure, software architecture and functional programming.</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=27ab83&center=true&vCenter=true&width=700&lines=Functional+programming+%26+systems+design;Building+scalable+micro-frontends;Making+IoT+systems+less+painful;From+light+bulbs+to+AI+agents;Conference+talks+%26+workshops;Static+typing%2C+edge+computing" alt="Typing SVG" />
+</p>
+
 <p>
 <a href="https://twitter.com/nstlopez"><img src="https://img.shields.io/badge/-@Nstlopez-000000?style=for-the-badge&labelColor=000000&logo=X&logoColor=white&link=https://twitter.com/nstlopez" alt="X Badge"></a>
 <a href="https://www.linkedin.com/in/nstlopez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/nstlopez/" alt="LinkedIn Badge"></a>
@@ -52,4 +56,25 @@
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS Badge">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Badge">
     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge" alt="Azure Badge">
+</p>
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nsttt&show_icons=true&theme=nord&bg_color=171717&title_color=27ab83&icon_color=27ab83&text_color=f0f0f0&border_color=404040&hide_border=false&border_radius=15" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsttt&layout=compact&theme=nord&bg_color=171717&title_color=27ab83&text_color=f0f0f0&border_color=404040&hide_border=false&border_radius=15&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsttt&theme=nord&bg_color=171717&color=27ab83&line=27ab83&point=f0f0f0&area=true&hide_border=false&border_color=404040&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" width="90%"/>
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nsttt&theme=nord&no-frame=false&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nsttt&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile Views"/>
 </p>
