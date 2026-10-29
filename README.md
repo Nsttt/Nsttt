@@ -22,6 +22,7 @@
 <li>🎤 You might catch me on stage talking about Module Federation, software architecture or systems design.</li>
 <li>📝 I write about what I learn on my <a href="https://nstlopez.com">blog</a> and run the occasional workshop.</li>
 <li>🚀 I'm great at dreaming up ideas and a bit chaotic at actually shipping them.</li>
+<li>🕹️ When I'm not working, I'm probably playing video games, especially arcade games.</li>
 <li>🐦 Come say hi on <a href="https://twitter.com/nstlopez">X</a>, that's where I usually hang out.</li>
 </ul>
 
